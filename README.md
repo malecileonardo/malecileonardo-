@@ -1,6 +1,6 @@
 # Leonardo Maleci
 
-Co-Founder & CTO of **Vyron** — a mobile app for real-life 
+Co-Founder & Technical Lead of **Vyron** — a mobile app for real-life 
 meetups and opportunities.
 
 ## What I'm building
